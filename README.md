@@ -1,5 +1,5 @@
 
-# Groceery List Maker v.1.0
+# Grocery List Maker v.1.0
 
 A program developed and created in python used for generating
  a list for groceries, including its budget and item prices.
