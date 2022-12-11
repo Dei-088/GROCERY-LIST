@@ -19,7 +19,7 @@ A program developed and created in python used for generating
 
 - Python 3.10
 ## How to use?
-- Enter the budget for ypur specified grocery list
+- Enter the budget for your specified grocery list
 - Add items according to your need and/or preference
 - You may update/delete items according to your liking
 - Exit the program to view your finalized grocery list including the remaining budget
