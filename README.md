@@ -29,6 +29,8 @@ A program developed and created in python used for generating
 
 ## Sample Images of the Program
 
+![Screenshot_1](https://user-images.githubusercontent.com/111673437/206888095-ed08709d-6d91-42c2-91fa-3d0f7541f175.png)
+
 
 
 ## 🔗 Links
