@@ -27,6 +27,8 @@ A program developed and created in python used for generating
 
 - Python 3.10
 
+## Sample Images of the Program
+
 
 
 ## 🔗 Links
