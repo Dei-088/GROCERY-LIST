@@ -33,6 +33,7 @@ A program developed and created in python used for generating
 
 ![Screenshot_2](https://user-images.githubusercontent.com/111673437/206888123-c1ef82a2-37a2-4c50-b339-6709c4fe411e.png)
 
+![Screenshot_3](https://user-images.githubusercontent.com/111673437/206888140-ed9043a3-57ab-426b-ba6d-9574690b79ae.png)
 
 
 ## 🔗 Links
