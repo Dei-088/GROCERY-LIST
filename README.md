@@ -37,7 +37,7 @@ A program developed and created in python used for generating
 
 
 ## 🔗 Links
-[![youtube](https://img.shields.io/badge/youtube_Demonstration-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://youtu.be/SKjOYhTfHMM)
+[![youtube](https://img.shields.io/badge/video_presentation-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://youtu.be/SKjOYhTfHMM)
 
 
 
